@@ -30,7 +30,7 @@ if (!$conn) {
         font-family: 'Alfa Slab One', cursive;
       }
 	     body{
-        background:100%;
+        background:120%;
   background-image:url("b1.jpg");
 
 }
